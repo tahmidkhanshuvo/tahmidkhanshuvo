@@ -2,9 +2,9 @@
 
 `README.md` renders on the GitHub profile. GitHub README pages do not execute JavaScript, so the contribution skyline links to the playable GitHub Pages arcade.
 
-- `assets/cover.svg`: original animated vector cover, including reduced-motion support.
+- `assets/hero-v2.svg`: original animated vector cover; no portrait is used.
 - `assets/stack/`: technology logos reused from the owner's portfolio. Trademarks belong to their respective owners.
-- `assets/contribution-city.svg`: generated activity snapshot embedded in the README.
+- `assets/contribution-snake.svg`: animated activity grid embedded directly in the README. `assets/stack-panel.svg` displays the technology logos.
 - `arcade/`: static, dependency-free game and landing page. Google Fonts supplies the optional web fonts; system fonts are the fallback.
 - `scripts/build-activity.mjs`: retrieves the public profile's contribution calendar through GitHub GraphQL and creates the skyline and JSON snapshot. It never modifies contributions.
 
@@ -22,6 +22,7 @@ With Node 22+, provide a GitHub token through `GH_TOKEN` and run:
 
 ```sh
 node scripts/build-activity.mjs
+node scripts/build-profile-art.mjs
 node --check arcade/game.js
 ```
 

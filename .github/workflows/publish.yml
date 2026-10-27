@@ -24,6 +24,7 @@ jobs:
       - run: node scripts/build-activity.mjs
         env:
           GH_TOKEN: ${{ github.token }}
+      - run: node scripts/build-profile-art.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
