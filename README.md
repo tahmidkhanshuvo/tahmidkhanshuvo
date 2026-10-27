@@ -4,7 +4,7 @@
   <a href="https://tahmidkhan.com.bd"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-d9f578?style=for-the-badge&logo=safari&logoColor=17201c" /></a>
   <a href="https://www.linkedin.com/in/tahmid-khan-shuvo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17201c?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <a href="mailto:hi@tahmidkhan.com.bd"><img alt="Email" src="https://img.shields.io/badge/Say_hello-17201c?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
-  <a href="https://tahmidkhanshuvo.github.io"><img alt="Play the contribution arcade" src="https://img.shields.io/badge/Play_the_grid-d9f578?style=for-the-badge&logo=gamejolt&logoColor=17201c" /></a>
+  <a href="https://tahmidkhanshuvo.github.io/tahmidkhanshuvo/"><img alt="Play the contribution arcade" src="https://img.shields.io/badge/Play_the_grid-d9f578?style=for-the-badge&logo=gamejolt&logoColor=17201c" /></a>
 </p>
 
 ### Hey, I'm Tahmid.
@@ -36,9 +36,9 @@ Tools I use and explore across software and systems. Hover over an icon for its 
 
 ### A little less README. A little more play.
 
-<a href="https://tahmidkhanshuvo.github.io"><img src="assets/contribution-city.svg" alt="My GitHub contribution skyline. Click to open Pulse Grid and play Snake." width="100%" /></a>
+<a href="https://tahmidkhanshuvo.github.io/tahmidkhanshuvo/"><img src="assets/contribution-city.svg" alt="My GitHub contribution skyline. Click to open Pulse Grid and play Snake." width="100%" /></a>
 
-<p align="center"><a href="https://tahmidkhanshuvo.github.io"><strong>Enter Pulse Grid ↗</strong></a> &nbsp; <sub>An animated activity skyline, a floating 3D mascot, and a playable Snake arcade. Keyboard + touch. Your best score stays local.</sub></p>
+<p align="center"><a href="https://tahmidkhanshuvo.github.io/tahmidkhanshuvo/"><strong>Enter Pulse Grid ↗</strong></a> &nbsp; <sub>An animated activity skyline, a floating 3D mascot, and a playable Snake arcade. Keyboard + touch. Your best score stays local.</sub></p>
 
 <details>
 <summary><strong>⌁ Research notebook</strong></summary>
