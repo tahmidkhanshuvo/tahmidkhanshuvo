@@ -1,60 +1,90 @@
-<p align="center">
-  <img src="assets/cover.svg" alt="Tahmid Khan — Ideas into working systems" width="100%" />
-</p>
+<p align="center"><img src="assets/cover.svg" alt="Tahmid Khan — Software, systems and research" width="100%" /></p>
 
 <p align="center">
-  <a href="https://tahmidkhan.com.bd"><img alt="Visit my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-d9f578?style=for-the-badge&amp;logo=safari&amp;logoColor=17201c" /></a>
-  <a href="https://github.com/tahmidkhanshuvo?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Open_the_workshop-17201c?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" /></a>
+  <a href="https://tahmidkhan.com.bd"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-d9f578?style=for-the-badge&logo=safari&logoColor=17201c" /></a>
+  <a href="https://www.linkedin.com/in/tahmid-khan-shuvo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17201c?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="mailto:hi@tahmidkhan.com.bd"><img alt="Email" src="https://img.shields.io/badge/Say_hello-17201c?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://tahmidkhanshuvo.github.io"><img alt="Play the contribution arcade" src="https://img.shields.io/badge/Play_the_grid-d9f578?style=for-the-badge&logo=gamejolt&logoColor=17201c" /></a>
 </p>
 
-I'm **Tahmid Khan**, a CSE undergraduate at **Ahsanullah University of Science and Technology**, based in Dhaka. I enjoy building across the interface, API and database—and returning to early projects to make them more useful, reliable and clear.
+### Hey, I'm Tahmid.
+
+<img align="right" src="assets/avatar.webp" alt="Tahmid Khan" width="112" />
+
+**Full-stack developer. Research-minded builder. Curious about what connects things.**
+
+I'm a CSE undergraduate at **Ahsanullah University of Science and Technology**, based in **Dhaka, Bangladesh**. I build web and mobile experiences, work with APIs and data, and explore applied research in **IoT, embedded networking, and low-power communication**.
+
+The interesting part for me is often the space between disciplines: a sensor that talks to a service, a backend that makes an interface useful, or a small tool that takes friction out of someone’s day.
+
+<br clear="both" />
 
 <table>
-<tr><td width="33%"><strong>01 / Build</strong><br/>Practical web and mobile applications.</td><td width="33%"><strong>02 / Connect</strong><br/>Interfaces, services and persistent data.</td><td width="33%"><strong>03 / Refine</strong><br/>Test the flows. Document the details.</td></tr>
+<tr><td width="33%"><strong>⌘ SOFTWARE</strong><br/><br/>Thoughtful interfaces, practical APIs, persistent data.<br/><sub>Full-stack web · Mobile · Developer tools</sub></td><td width="33%"><strong>⌁ SYSTEMS</strong><br/><br/>Sensing, microcontrollers and communication beyond the browser.<br/><sub>IoT · LoRa / LoRaWAN · Embedded networks</sub></td><td width="33%"><strong>↗ PEOPLE</strong><br/><br/>Building communities, mentoring and learning together.<br/><sub>TechNetics · AUST Robotics Club</sub></td></tr>
 </table>
 
-### Pick a project to explore
+### The toolkit
 
-Six different problems. One habit: learning by shipping and improving.
+Tools I use and explore across software and systems. Hover over an icon for its name.
 
-| Project | What I'm exploring | Open |
-| :--- | :--- | :--- |
-| **OfficePulse** | Office energy, device telemetry, room controls and analytics · Bun / React / Postgres | [Repository ↗](https://github.com/tahmidkhanshuvo/OfficePulse) |
-| **Green Gadgets** | A second life for electronics, listings and buyer–seller conversations · React / Express / MongoDB | [Repository ↗](https://github.com/tahmidkhanshuvo/Green-Gadgets) |
-| **SnackBox** | Food ordering, menu customizations, stock and staff operations · React / Laravel | [Repository ↗](https://github.com/tahmidkhanshuvo/SnackBox) |
-| **Eventify** | Campus events, organizer approval, registrations and certificates · React / Express / MongoDB | [Repository ↗](https://github.com/tahmidkhanshuvo/Eventify) |
-| **CinemaGo** | Cinema bookings, seat reservations and a streaming catalogue · Next.js / ASP.NET Core / Postgres | [Repository ↗](https://github.com/tahmidkhanshuvo/CinemaGo) |
-| **TekVend** | Electronics shopping across mobile and a browser demo · Flutter / Firebase | [Repository ↗](https://github.com/tahmidkhanshuvo/TekVend) |
+<table>
+<tr><td><strong>Languages</strong></td><td><img src="assets/stack/c.svg" width="33" alt="C" title="C" /> &nbsp; <img src="assets/stack/cplusplus.svg" width="33" alt="C++" title="C++" /> &nbsp; <img src="assets/stack/python.svg" width="33" alt="Python" title="Python" /> &nbsp; <img src="assets/stack/javascript.svg" width="33" alt="JavaScript" title="JavaScript" /> &nbsp; <img src="assets/stack/php.svg" width="33" alt="PHP" title="PHP" /> &nbsp; <img src="assets/stack/dart.svg" width="33" alt="Dart" title="Dart" /> &nbsp; <img src="assets/stack/csharp.svg" width="33" alt="C#" title="C#" /></td></tr>
+<tr><td><strong>Interfaces</strong></td><td><img src="assets/stack/react.svg" width="33" alt="React" title="React" /> &nbsp; <img src="assets/stack/next-js.svg" width="33" alt="Next.js" title="Next.js" /> &nbsp; <img src="assets/stack/tailwind-css.svg" width="33" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp; <img src="assets/stack/flutter.svg" width="33" alt="Flutter" title="Flutter" /></td></tr>
+<tr><td><strong>Services & data</strong></td><td><img src="assets/stack/bun.svg" width="33" alt="Bun" title="Bun" /> &nbsp; <img src="assets/stack/node-js.svg" width="33" alt="Node.js" title="Node.js" /> &nbsp; <img src="assets/stack/express.svg" width="33" alt="Express" title="Express" /> &nbsp; <img src="assets/stack/laravel.svg" width="33" alt="Laravel" title="Laravel" /> &nbsp; <img src="assets/stack/asp-net.svg" width="33" alt="ASP.NET Core" title="ASP.NET Core" /> &nbsp; <img src="assets/stack/postgresql.svg" width="33" alt="PostgreSQL" title="PostgreSQL" /> &nbsp; <img src="assets/stack/mongodb.svg" width="33" alt="MongoDB" title="MongoDB" /> &nbsp; <img src="assets/stack/redis.svg" width="33" alt="Redis" title="Redis" /> &nbsp; <img src="assets/stack/firebase.svg" width="33" alt="Firebase" title="Firebase" /></td></tr>
+<tr><td><strong>Workbench</strong></td><td><img src="assets/stack/git.svg" width="33" alt="Git" title="Git" /> &nbsp; <img src="assets/stack/github-actions.svg" width="33" alt="GitHub Actions" title="GitHub Actions" /> &nbsp; <img src="assets/stack/docker.svg" width="33" alt="Docker" title="Docker" /> &nbsp; <img src="assets/stack/ubuntu.svg" width="33" alt="Linux / Ubuntu" title="Linux / Ubuntu" /> &nbsp; <img src="assets/stack/arduino.svg" width="33" alt="Arduino" title="Arduino" /></td></tr>
+</table>
+
+### A little less README. A little more play.
+
+<a href="https://tahmidkhanshuvo.github.io"><img src="assets/contribution-city.svg" alt="My GitHub contribution skyline. Click to open Pulse Grid and play Snake." width="100%" /></a>
+
+<p align="center"><a href="https://tahmidkhanshuvo.github.io"><strong>Enter Pulse Grid ↗</strong></a> &nbsp; <sub>An animated activity skyline, a floating 3D mascot, and a playable Snake arcade. Keyboard + touch. Your best score stays local.</sub></p>
 
 <details>
-<summary><strong>⌘ Open the stack drawer</strong></summary>
+<summary><strong>⌁ Research notebook</strong></summary>
 
-| Layer | Tools I use in these projects |
+My interests connect **sensing, microcontrollers, edge devices, wireless sensor networks and protocol design**. I’m exploring applied IoT and LoRa-based communication, with an interest in reliable systems beyond conventional web applications.
+
+- **AUST Student Research Grant — Fall 2024 awardee**
+- Manuscript in preparation; publication links will be added when available.
+- [Research on my portfolio](https://tahmidkhan.com.bd/research) · [ORCID](https://orcid.org/0009-0009-5134-128X)
+
+</details>
+
+<details>
+<summary><strong>↗ Community, leadership & milestones</strong></summary>
+
+- **Founder, TechNetics** — organized CodEmpire 1.0 and TechEmpire 1.0.
+- **Director, RnD Team, AUST Robotics Club** — engineering projects, technical events and mentoring Robotics Bootcamp 101 in 2024 and 2025.
+- **AUST CSE Carnival 6.0 Hackathon** — finalist.
+- **AUST CSE Carnival 3.0 IAPC** — finalist.
+- **Meta Hacker Cup 2025** — regional round.
+- **BYLC BBLT 45** graduate and BGN member.
+
+[More background and credentials ↗](https://tahmidkhan.com.bd/credentials)
+
+</details>
+
+<details>
+<summary><strong>⌘ Open the project drawer</strong></summary>
+
+A few places where these interests turn into working code:
+
+| Area | Explore |
 | --- | --- |
-| Interface | React, Next.js, TypeScript, JavaScript, Flutter, Dart |
-| Services | Node.js, Express, Bun, Laravel, PHP, ASP.NET Core, C# |
-| Data | PostgreSQL, MongoDB, Firebase, Redis |
-| Delivery | Git, GitHub, Docker, Vercel, Render, Cloudflare |
+| Systems & telemetry | [OfficePulse](https://github.com/tahmidkhanshuvo/OfficePulse) |
+| Developer tools & experimentation | [CLite](https://github.com/tahmidkhanshuvo/CLite) · [IEEE Research Suite](https://github.com/tahmidkhanshuvo/IEEE-Research-Suite) · [Data Bot](https://github.com/tahmidkhanshuvo/Data-Bot) |
+| Full-stack applications | [Green Gadgets](https://github.com/tahmidkhanshuvo/Green-Gadgets) · [SnackBox](https://github.com/tahmidkhanshuvo/SnackBox) · [Eventify](https://github.com/tahmidkhanshuvo/Eventify) · [CinemaGo](https://github.com/tahmidkhanshuvo/CinemaGo) |
+| Mobile | [TekVend](https://github.com/tahmidkhanshuvo/TekVend) |
 
-This is a map of the work, not a proficiency leaderboard. Each project has its own setup instructions and tradeoffs.
-
-</details>
-
-<details>
-<summary><strong>↺ What happens when I revisit an early project?</strong></summary>
-
-I follow the user journey first: can someone find what they need, sign in, complete the action, and understand the result? Then I inspect access checks, data validation, empty states, deployment settings and documentation. A polished screen should lead to a working flow.
-
-The project repositories contain the implementation, verification steps and deployment notes. They're also a record of what I've learned along the way.
+[Browse everything ↗](https://github.com/tahmidkhanshuvo?tab=repositories)
 
 </details>
 
-<details>
-<summary><strong>↗ Find me elsewhere</strong></summary>
+### Let's connect ideas.
 
-- [Personal website](https://tahmidkhan.com.bd)
-- [Public GitHub activity](https://github.com/tahmidkhanshuvo?tab=overview)
+I’m interested in software engineering, applied systems research, and collaborations where learning and building happen together.
 
-</details>
+**[Portfolio ↗](https://tahmidkhan.com.bd) &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/tahmid-khan-shuvo) &nbsp; [Email ↗](mailto:hi@tahmidkhan.com.bd)**
 
-<p align="center"><sub>Built with curiosity. Improved with evidence.</sub></p>
+<p align="center"><sub>Software, networks & physical systems. Always something new to connect.</sub></p>
